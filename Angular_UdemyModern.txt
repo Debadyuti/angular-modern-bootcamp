@@ -1,0 +1,110 @@
+Udemy - The Modern Angular Bootcamp
+
+Discord Link
+https://discord.gg/vvcyvjDkdC
+
+Diagrams:
+https://github.com/StephenGrider/ng-casts
+
+Online code editor:
+https://codesandbox.io/s/ng-translator-b6033
+
+npm install -g @angular/cli
+
+Note #2: You can optionally choose to install the VSCode Extension called *** Angular Language Service ***
+
+ng new <app name>
+
+npm start
+ng serve
+
+bulma.io	>> Styling Library
+
+npm i bulma
+
+now.sh			>> DEPLOY ANGULAR APP
+npm i -g now
+now login
+now
+
+https://angular-modern-bootcamp-pw.vercel.app
+
+ng generate component <name>
+
+https://angular-modern-bootcamp-cards.vercel.app 
+
+
+------------ TYPING ----------------------
+npm i faker
+npm i @types/faker
+
+------------ PIPE -------------------------
+angular.io/api?type=pipe
+
+npm i bootstrap
+
+ng generate pipe convert
+
+------------ DIRECTIVES -------------------------
+
+angular.io/api?type=directive
+
+unsplash.com
+
+ng generate directive class
+
+typescriptlang.org/play		>> Typescript playground
+
+------------ MODULE SYSTEM -------------------------
+
+semantic-ui.com			>> styling library (CSS + JS)
+
+ng new <application name> --routing				>> create project with ROUTING
+
+ng generate module <module name> --routing
+
+ng g m Elements --routing
+ng g m Collections --routing
+ng g m Views --routing
+ng g m Mods --routing
+
+ng generate component elements/ElementsHome
+ng generate component collections/CollectionsHome
+
+
+npm install semantic-ui-css
+
+ng g c Home
+ng g c NotFound
+
+ng g c elements/Placeholder
+ng g directive elements/Times
+
+ng generate module Shared
+ng generate component shared/Divider
+
+ng g c elements/Segment
+ng g c collections/Table
+ng g c collections/Biography
+ng g c collections/Companies
+ng g c collections/Partners
+ng g c collections/Tabs
+
+ng g c views/ViewsHome
+ng g c views/Statistics
+ng g c views/ItemList
+
+ng g c mods/ModsHome
+ng g c mods/Modal
+
+angular.io/guide/lifecycle-hooks			>> Angular LIFE CYCLE HOOKS
+
+ng g c mods/Accordion
+
+------------------------------------------- TYPESCRIPT ------------------------------------
+
+npm install typescript ts-node-dev
+
+npx typescript --init				>> Generate TSCONFIG file (DECORATOR Support enable) - strict: false
+
+-------------------------------------------
